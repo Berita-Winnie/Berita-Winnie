@@ -26,4 +26,4 @@
 </p>
 
 
-🌷 *Building beautiful things, one line of code at a time.*
+🌷 *Turning ideas into smooth interfaces. *
