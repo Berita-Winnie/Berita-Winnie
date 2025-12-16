@@ -1,13 +1,14 @@
 <h1 align="center">🌸 Hi, I'm Berita! </h1>
 
 ---
+---
 
 ### 💫 About Me
 ✨ I'm **Berita**, a passionate **Frontend Developer** who loves bringing ideas to life through clean and creative designs.  
 🎨 I enjoy turning simple concepts into beautiful, user-friendly interfaces...
 
 ---
-
+---
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
