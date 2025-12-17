@@ -28,4 +28,4 @@
 </p>
 
 
-🌷 **Turning ideas into smooth interfaces!**
+🌷 **Turning ideas into smooth interfaces...**
