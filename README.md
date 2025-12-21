@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Hi, I'm Berita! </h1>
 
----
+
 ---
 
 ### 💫 About Me
