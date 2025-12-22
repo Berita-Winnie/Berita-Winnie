@@ -1,7 +1,6 @@
 <h1 align="center">🌸 Hi, I'm Berita! </h1>
 
 ---
----
 
 ### 💫 About Me
 ✨ I'm **Berita**, a passionate **Frontend Developer** who loves bringing ideas to life through clean and creative designs.  
