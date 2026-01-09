@@ -7,7 +7,7 @@
 ✨ I'm **Berita**, a passionate **Frontend Developer** who loves bringing ideas to life through clean and creative designs.  
 🎨 I enjoy turning simple concepts into beautiful, user-friendly interfaces...
 
----
+
 ---
 ### 🛠 Tech Stack
 <p align="center">
