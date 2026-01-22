@@ -29,4 +29,4 @@ I'm **Berita**, a passionate **Frontend Developer** who loves bringing ideas to 
 </p>
 
 
-🌷 **Turning ideas into smooth interfaces...**
+🌷 **Turning ideas into smooth interfaces!**
